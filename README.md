@@ -6,4 +6,12 @@ let me just store some data here:
 
 let me store a other data here :)
 
+Food on rails
 ![food on rails preview](https://github.com/user-attachments/assets/08cda902-2ed8-41e2-bd6a-be23152d0572)
+
+Debo Info
+![image](https://github.com/user-attachments/assets/afd35695-0cb0-424f-bfa4-45285b9f5f6b)
+
+
+AtechAfrik
+![image](https://github.com/user-attachments/assets/7b6bf6e7-8157-45dd-b3b6-c361eb95d3ca)
